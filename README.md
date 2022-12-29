@@ -1,5 +1,5 @@
 # INSTAGRAM CLONE
-![logo](![Untitled design](https://user-images.githubusercontent.com/114931638/209991979-fd69aaeb-6230-43c8-b0d8-0ee5807bf859.png)
-)
-
+![logo](https://image.isu.pub/210201092151-91621ba0530afcf27163d3c71d706b62/jpg/page_1.jpg)
+<h1 align="center">Hi 👋, I'm Hitesh Kumar</h1>
+<h3 align="center">A passionate computer science engineer from India</h3>
 <H1>Project of static website based on CSS (Cascading style sheet) and HTML(Hyper text markup language)</H1>
