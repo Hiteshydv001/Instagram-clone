@@ -1,4 +1,4 @@
 # Instagram-clone
-<img align="right"alt="coding"width="400"src="https://image.isu.pub/210201092151-91621ba0530afcf27163d3c71d706b62/jpg/page_1.jpg">
+![logo](![image](https://user-images.githubusercontent.com/114931638/209989717-241d5fb5-e362-4077-87bc-929e910f831f.png)
 
 ---Project of static website based on CSS (Cascading style sheet) and HTML(Hyper text markup language)---
